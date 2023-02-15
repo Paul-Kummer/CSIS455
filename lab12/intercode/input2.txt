@@ -1,0 +1,36 @@
+{
+	int i;
+	int j;
+	float v;
+	float x;
+	int h; 
+	int k;
+	float [100] a;
+	int [100][50] b;
+
+	//The variables MUST be instantiated otherwise the code is broken
+	h = 11;
+	i = 0;
+	j = 2;
+	k = 33;
+	v = 5.5;
+	x = 4.4;
+	a[i] = 500.3;
+	a[i] = 300.5;
+	a[j] = 200.1;
+
+	while(2+2 == 4)
+	{
+		do i = i+1; while (a[i] < v);
+		do j = j-1; while (a[j] > v);
+		if ( i >= j) break;
+
+		x = a[i];
+		a[i] = a[j];
+		a[j] = x;
+	}
+
+	//i = i + j * k;
+	i = ((i + j) * k);
+	a[0] = ((i + b[h][k]) * k);
+}
