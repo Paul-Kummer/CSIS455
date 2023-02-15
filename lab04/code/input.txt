@@ -1,0 +1,4 @@
+c=b+1+input
+c=l+mmmm
+input = b + result
+x =    b * ( c -2 *  x) + 33
