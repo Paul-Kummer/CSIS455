@@ -1,0 +1,10 @@
+{
+	int x; float y; bool z;
+	y = 10.0;
+	x = 5 + x;
+	x = x + 10;
+	y = 1 + 2 - 3 + x - 5 * 6;
+	z = true;
+}
+
+
