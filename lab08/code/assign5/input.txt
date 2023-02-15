@@ -1,0 +1,15 @@
+{
+	int a;
+	int b = 2000;
+	boolean x;
+	float [3][2] n;
+
+	a = 1000;
+	tonne = a * 2;
+	twoTon = b * 2;
+
+
+	int z;
+	z = - 1 + 2/(2*2);
+
+}
